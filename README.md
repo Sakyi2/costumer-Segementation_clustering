@@ -73,7 +73,7 @@ Apply to real customer datasets (e-commerce, banking, retail)
 
 👨‍💻 Author
 Sakyi Isaiah
-📧 sakyiisaiah4160@example.com
+📧 sakyiisaiah4160@gmail.com
 
 🔗 LinkedIn
 https//:www.linkedin.com/in/isaiah-sakyi
